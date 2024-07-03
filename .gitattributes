@@ -1,0 +1,2 @@
+client filter=lfs diff=lfs merge=lfs -text
+server filter=lfs diff=lfs merge=lfs -text
